@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Asutosh-R/Leet_Code_Python/tree/master/0485-max-consecutive-ones) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Asutosh-R/Leet_Code_Python/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
